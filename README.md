@@ -1,2 +1,2 @@
-# tech-daily-questions
-「小马哥每日一问」
+# 「小马哥每日一问」
+
